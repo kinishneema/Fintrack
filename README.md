@@ -4,13 +4,6 @@
 FinTrack is a web app that keeps track of all your Money flowing in or out.
 
 
-## Demo of Website
-
-Loom video link
-
-https://www.loom.com/share/c68b7f499ad0474dbd67bf429daeda2a
-
-
 
 ## Problem
 
