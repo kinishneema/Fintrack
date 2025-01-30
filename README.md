@@ -10,14 +10,6 @@ Loom video link
 
 https://www.loom.com/share/c68b7f499ad0474dbd67bf429daeda2a
 
-## Developers
-
-- [Bhavya Mittal](https://github.com/dev-bhavya)
-- [Akshat Yadav](https://github.com/Akshat1202)
-- [Prince Verma](https://github.com/princeverma-ai)
-- [Vanshika Bansal](https://github.com/vanshika-a)
-- [Ishtjot](https://github.com/ISHTJOT-KAUR1/sample)
-
 
 
 ## Problem

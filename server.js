@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const app = require("./app");
 
 // connection to the database--------------------------------------------------------
-const db = "mongodb+srv://hackmol:hackmol1234@cluster0.qfbgj.mongodb.net/test";
+const db = "mongodb+srv://kinishneema7723:fcgYIVgtYzfluVcy@cluster0.vvgng.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 mongoose
   .connect(db, {
     useNewUrlParser: true,
