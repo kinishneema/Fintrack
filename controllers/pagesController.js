@@ -1,6 +1,5 @@
 const fs = require("fs");
 
-//---------------------------------------------------------------------------
 exports.getDashboard = async function (req, res) {
   try {
     console.log(req.body);
