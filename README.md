@@ -32,7 +32,7 @@ The future scope of a platform depends upon its scalability, business model and 
 Clone the project
 
 ```bash
-  git clone https://github.com/princeverma-ai/hackmol3.0
+  git clone https://github.com/kinishneema/Fintrack
 ```
 
 Install dependencies
